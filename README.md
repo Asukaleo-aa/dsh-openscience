@@ -63,7 +63,7 @@ npm publish --access public
 git init
 git add .
 git commit -m "openscience research automation ported to dsh"
-git remote add origin git@github.com:Asukaleo-aa/dsh-openscience.git
+git remote add origin git@github.com:YOUR_USERNAME/dsh-openscience.git
 git push -u origin main
 ```
 

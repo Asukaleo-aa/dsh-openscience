@@ -1,5 +1,5 @@
 {
-  "name": "@deepseek-ai/dsh-artifact-provenance",
+  "name": "@antientropier/dsh-artifact-provenance",
   "description": "Artifact provenance projection: fold session logs into per-file last-write records",
   "version": "0.1.0",
   "publishConfig": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Asukaleo-aa/dsh-openscience.git",
+    "url": "git+https://github.com/YOUR_USERNAME/dsh-openscience.git",
     "directory": "plugin/artifact-provenance"
   },
   "type": "module",
