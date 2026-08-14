@@ -1,0 +1,3 @@
+name: 科研模式
+description: 在标准编码 Agent 基础上叠加 openscience 研究自动化四件套：研究循环 skill、溯源审查、论文完整性审计、自演化复盘。
+order: 2
