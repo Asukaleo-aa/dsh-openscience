@@ -7,3 +7,4 @@ lib/
 
 # 系统
 .DS_Store
+plugin/artifact-provenance/node_modules
